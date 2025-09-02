@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-source <(curl -s https://raw.githubusercontent.com/masterofrpm/Proxmox/main/misc/build.func)
+source <(curl -s https://github.com/masterofrpm/Proxmox/raw/main/misc/build.func)
 # Copyright (c) 2021-2024 tteck
 # Author: tteck (tteckster)
 # License: MIT
